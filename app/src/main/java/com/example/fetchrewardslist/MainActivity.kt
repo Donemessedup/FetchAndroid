@@ -3,7 +3,7 @@
  * from the "hiring.json" website via a GET request using a HTTP URL Connection inside an Async Task
  *
  * Fetch Android Assignment
- * No sources to cite.
+ *
  *
  * @author Aaron Miller
  * @version v1.0 08/22/22
